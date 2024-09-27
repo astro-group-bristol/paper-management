@@ -54,7 +54,7 @@
         align(right, where),
         align(left, text(size: 20pt, weight: "regular")[]),
         align(right, text(size: 20pt, weight: "regular",
-        [#date.display("[day] [month repr:long] [year]") / Sussex]
+        [#date.display("[day] [month repr:long] [year]") / Bristol]
         )),
       )
       #v(-1.5em)
